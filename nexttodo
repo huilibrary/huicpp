@@ -1,0 +1,8 @@
+* hthread;
+* pool;
+
+
+next version:
+* integrate adaptation and detail;
+* process wrapper;
+* processpool;
